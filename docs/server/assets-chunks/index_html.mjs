@@ -1,0 +1,13 @@
+export default `<!DOCTYPE html><html lang="en" data-beasties-container><head>
+  <meta charset="utf-8">
+  <title>OnlineStore</title>
+  <base href="/Hardware-store/">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+<link rel="stylesheet" href="styles-5INURTSO.css"><style ng-app-id="ng">.nna[_ngcontent-ng-c2654402082]{text-align:center;margin-top:40px;font-weight:700;font-size:40px;font-family:Verdana,Geneva,sans-serif;text-shadow:0 12px 24px rgba(0,0,0,.1),0 0 15px rgba(55,50,50,.42)}.categories[_ngcontent-ng-c2654402082]{display:flex;gap:10px;flex-wrap:wrap;justify-content:center}.categories[_ngcontent-ng-c2654402082]   button.active[_ngcontent-ng-c2654402082]{background:#e60000;color:#fff}button[_ngcontent-ng-c2654402082]{color:#fff;cursor:pointer;border-radius:15px;border:None;padding:15px 40px;font-weight:700;font-size:20px;background:#ffb700;transition:.3s}button[_ngcontent-ng-c2654402082]:hover{background:#e60000;transform:translateY(-1px);box-shadow:0 5px #900}</style></head>
+<body><!--nghm--><script type="text/javascript" id="ng-event-dispatch-contract">(()=>{function p(t,n,r,o,e,i,f,m){return{eventType:t,event:n,targetElement:r,eic:o,timeStamp:e,eia:i,eirp:f,eiack:m}}function u(t){let n=[],r=e=>{n.push(e)};return{c:t,q:n,et:[],etc:[],d:r,h:e=>{r(p(e.type,e,e.target,t,Date.now()))}}}function s(t,n,r){for(let o=0;o<n.length;o++){let e=n[o];(r?t.etc:t.et).push(e),t.c.addEventListener(e,t.h,r)}}function c(t,n,r,o,e=window){let i=u(t);e._ejsas||(e._ejsas={}),e._ejsas[n]=i,s(i,r),s(i,o,!0)}window.__jsaction_bootstrap=c;})();
+</script><script>window.__jsaction_bootstrap(document.body,"ng",["click"],[]);</script>
+  <app-root ng-version="21.1.5" _nghost-ng-c2654402082 ngh="0" ng-server-context="ssg"><h1 _ngcontent-ng-c2654402082 class="nna">Online-Store</h1><div _ngcontent-ng-c2654402082 class="categories"><button _ngcontent-ng-c2654402082 class jsaction="click:;">Keyboard</button><button _ngcontent-ng-c2654402082 class jsaction="click:;">Mouse</button><button _ngcontent-ng-c2654402082 class jsaction="click:;">Laptop</button><button _ngcontent-ng-c2654402082 class jsaction="click:;">Headphones</button><!----></div><h1 _ngcontent-ng-c2654402082 style="margin-left: 40%;">Please select a category</h1><!----><!----></app-root>
+<script src="main-52B6673D.js" type="module"></script>
+
+<script id="ng-state" type="application/json">{"__nghData__":[{"t":{"4":"t0","5":"t1","6":"t2"},"c":{"4":[{"i":"t0","r":1,"x":4}],"5":[{"i":"t1","r":1}],"6":[]}}]}</script></body></html>`;
